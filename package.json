@@ -1,0 +1,8 @@
+{
+  "name": "fillgenerictable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sostenesapollo12/fill-generic-table.git",
+  "author": "sostenesapollo12 <sostenesapollo25@gmail.com>",
+  "license": "MIT"
+}
